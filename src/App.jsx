@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-
+//This code is a React component for a web page profile. It is importing the useState from React, importing App.css, and creating a div with a header, main, and footer. The Progress function is a reusable component for displaying a percentage given as a prop.
 function App() {
   return (
     <>
